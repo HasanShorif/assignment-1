@@ -100,3 +100,22 @@ h3{
     background-repeat: no-repeat;
     background-position:right bottom;
 }
+.top-banner{
+    background-image: url(shapes/shape-7.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position:left top;
+}
+.box{
+    position:inherit;
+    background-color:black;
+    color:white;
+    padding: 2% 4% 2% 4%;
+}
+.box h3{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.box p { 
+    text-align:center;
+}
